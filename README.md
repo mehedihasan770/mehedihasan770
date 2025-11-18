@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MEHEDI</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
+<img src="https://i.ibb.co.com/PZNsCdX0/Screenshot-2025-11-18-224345.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan770&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan770" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,3 +13,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan770&show_icons=true&locale=en" alt="mehedihasan770" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan770&" alt="mehedihasan770" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan770&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan770" /> </p>
