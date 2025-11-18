@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHEDI</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
-<img src="https://i.ibb.co.com/j9KSJ88s/Screenshot-2025-11-18-230722.png" />
+<img src="https://i.ibb.co.com/sxvQ7Q1/Usage-instructions-3.png" />
 
 
 <h3 align="left">Connect with me:</h3>
