@@ -22,6 +22,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
   <img src="https://skillicons.dev/icons?i=express" height="40" />
   <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
 </p>
 <h2 align="left">My Socile</h2>
 
