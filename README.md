@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" />
 </p>
 <h2 align="left">My Socile</h2>
+
 <a href="https://www.facebook.com/MDMehediHasan8214" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" />
 </a>
@@ -31,6 +32,9 @@
   <img src="https://skillicons.dev/icons?i=discord" height="40" />
 </a>
 
+<h2 align="left">My Contributions</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan770&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan770&show_icons=true&locale=en" alt="mehedihasan770" /></p>
 
