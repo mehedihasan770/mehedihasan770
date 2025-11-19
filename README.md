@@ -33,10 +33,10 @@
 </a>
 
 <h2 align="left">My Contributions</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan770&" alt="mehedihasan770" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan770&layout=compact)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan770&show_icons=true&locale=en" alt="mehedihasan770" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan770&" alt="mehedihasan770" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan770&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan770" /> </p>
