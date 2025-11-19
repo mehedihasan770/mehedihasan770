@@ -2,6 +2,10 @@
 
 ![](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/584721026_122520645884000323_254401885011499386_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_aid=0&_nc_eui2=AeGujLDtB7GjAGUZ2PG0fVbhOklh87st5eM6SWHzuy3l49D0_YAOFGDsBx9BkVcZHdGC9No7c-gTDJ15awYSpExv&_nc_ohc=Tp5J-xvpMfQQ7kNvwE-lvrw&_nc_oc=AdmVW-C8-SX-5v4haWiZ86ZgTPvrDFZkwvcDk_5zjc-SWhcMkynSwiM4IRFe2efr0_g&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=V9RlKSefRYDCcCz2Jvt-Ng&oh=00_AfilHJWa8uRIXEcGjwkawKvlenSLTm0q9HcYbSepNpVmaw&oe=692318A5)
 
+<h2 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Hallo+I+am+MD+Mehedi+Hasan;I+am+a+Frontend+Web+Developer" alt="Typing SVG" /></a>
+</h2>
+
 <h2 align="left">MY INFOS</h2>
 Name ➤ MD Mehedi Hasan
 <br>
