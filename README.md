@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MEHEDI</h1>
-<h3 align="center">A passionate frontend developer from BD</h3>
-<img src="https://i.ibb.co.com/sxvQ7Q1/Usage-instructions-3.png" />
 
+![](https://scontent.fdac110-1.fna.fbcdn.net/v/t39.30808-6/584721026_122520645884000323_254401885011499386_n.png?stp=dst-png_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_aid=0&_nc_eui2=AeGujLDtB7GjAGUZ2PG0fVbhOklh87st5eM6SWHzuy3l49D0_YAOFGDsBx9BkVcZHdGC9No7c-gTDJ15awYSpExv&_nc_ohc=Tp5J-xvpMfQQ7kNvwE-lvrw&_nc_oc=AdmVW-C8-SX-5v4haWiZ86ZgTPvrDFZkwvcDk_5zjc-SWhcMkynSwiM4IRFe2efr0_g&_nc_zt=23&_nc_ht=scontent.fdac110-1.fna&_nc_gid=V9RlKSefRYDCcCz2Jvt-Ng&oh=00_AfilHJWa8uRIXEcGjwkawKvlenSLTm0q9HcYbSepNpVmaw&oe=692318A5)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">About me</h2>
+<p>I am a Frontend Developer skilled in JavaScript, React, HTML, CSS, and Tailwind CSS. I also have experience with Node.js, Express, and MongoDB, which helps me work confidently on full-stack projects. I enjoy building clean, responsive, and user-friendly web applications.</p>
 <p align="left">
 </p>
 
