@@ -35,7 +35,7 @@ Designation ➤ Frotend Developer
   <img src="https://skillicons.dev/icons?i=vite" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
 </p>
-<h2 align="left">My Socile</h2>
+<h2 align="left">Connect with me</h2>
 
 <a href="https://www.facebook.com/MDMehediHasan8214" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" />
