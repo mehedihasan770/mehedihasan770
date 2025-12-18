@@ -12,7 +12,7 @@ Name ➤ MD Mehedi Hasan
 Designation ➤ Frotend Developer
 
 <h2 align="left">ABOUT ME</h2>
-<p>I am a Frontend Developer skilled in JavaScript, React, HTML, CSS, and Tailwind CSS. I also have experience with Node.js, Express, and MongoDB, which helps me work confidently on full-stack projects. I enjoy building clean, responsive, and user-friendly web applications.</p>
+<p>Mern stack developer | Expertise in react, next.js, express.js, javascript and MongoDB | I help build modern, user-friendly web applications | Continuously learning new technologies to build better web applications</p>
 <p align="left">
 </p>
 
