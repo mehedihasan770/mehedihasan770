@@ -9,7 +9,7 @@
 <h2 align="left">MY INFOS</h2>
 Name ➤ MD Mehedi Hasan
 <br>
-Designation ➤ Frotend Developer
+Designation ➤ Mern stack Developer
 
 <h2 align="left">ABOUT ME</h2>
 <p>Mern stack developer | Expertise in react, next.js, express.js, javascript and MongoDB | I help build modern, user-friendly web applications | Continuously learning new technologies to build better web applications</p>
