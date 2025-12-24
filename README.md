@@ -17,7 +17,7 @@ Designation ➤ Mern stack Developer
 </p>
 
 <h2 align="left">MY CURRENT ACTIVITIES</h2>
-➤ I have built a complete website using Express.
+➤ I have built a complete website using Express, node.js, react, next.js, htnl, css, mongoDB.
 <br>
 ➤ I am exploring Next.js to expand my development skills.
 <br>
