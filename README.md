@@ -52,7 +52,8 @@ Continuously learning new technologies</p>
   <img src="https://skillicons.dev/icons?i=npm" height="55" />
   <img src="https://skillicons.dev/icons?i=vercel" height="55" />
   <img src="https://skillicons.dev/icons?i=netlify" height="55" />
-  <img src="https://skillicons.dev/icons?i=render" height="55" />
+  <img src="https://skillicons.dev/icons?i=windows" height="55" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" />
 </p>
 <h2 align="left">FOLLOW ME ON SOCIALS</h2>
 
@@ -61,6 +62,9 @@ Continuously learning new technologies</p>
 </a>
 <a href="https://www.linkedin.com/in/md-mehedi-hasan7/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+<a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
 
 <h2 align="left">MY USED LANGUAGES</h2>
