@@ -55,8 +55,8 @@ Continuously learning new technologies</p>
   <img src="https://skillicons.dev/icons?i=windows" height="55" />
   <img src="https://skillicons.dev/icons?i=postman" height="55" />
 </p>
-<h2 align="left">FOLLOW ME ON SOCIALS</h2>
 
+<h2 align="left">FOLLOW ME ON SOCIALS</h2>
 <a href="https://github.com/mehedihasan770/mehedihasan770/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
@@ -66,14 +66,15 @@ Continuously learning new technologies</p>
 <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
-
-<h2 align="left">MY USED LANGUAGES</h2>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedihasan770&layout=compact)
-
 <h2 align="left">MY STATS</h2>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihasan770&show_icons=true&locale=en" alt="mehedihasan770" /></p>
+<div >
+<a href="https://github.com/mehedihasan770">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan770&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasan770&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedihasan770&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedihasan770&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan770&theme=2077" height="180em" />
+</div>
 
 <h2 align="left">MY CONTRIBUTIONS</h2>
 
