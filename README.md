@@ -57,13 +57,10 @@ Continuously learning new technologies</p>
 <h2 align="left">FOLLOW ME ON SOCIALS</h2>
 
 <a href="https://github.com/mehedihasan770/mehedihasan770/" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
-<a href="https://www.facebook.com/MDMehediHasan8214" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="40" />
-</a>
-<a href="https://discord.com/users/mdmehedihasan7" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=discord" height="40" />
+<a href="https://www.linkedin.com/in/md-mehedi-hasan7/" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
 <h2 align="left">MY USED LANGUAGES</h2>
