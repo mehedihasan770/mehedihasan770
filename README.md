@@ -66,15 +66,32 @@ Continuously learning new technologies</p>
 <a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
+
 <h2 align="left">MY STATS</h2>
-<div >
-<a href="https://github.com/mehedihasan770">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan770&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan770&theme=2077" height="180em" />
+<div>
+  <a href="https://github.com/mehedihasan770">
+    <img
+      align="center"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan770&theme=default"
+      height="180em"
+    />
+  </a>
 </div>
 
+  
 <h2 align="left">MY CONTRIBUTIONS</h2>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihasan770&" alt="mehedihasan770" /></p>
 
+<h2 align="left">MY PROFILE DETAILS</h2>
+<div>
+  <a href="https://github.com/mehedihasan770">
+    <img
+      align="center"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedihasan770&theme=default"
+      height="180em"
+    />
+  </a>
+</div>
+
+<h2 align="left">TOTAL PROFILE VIEWS</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan770&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan770" /> </p>
