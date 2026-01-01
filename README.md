@@ -2,19 +2,25 @@
 
 ![](https://media.licdn.com/dms/image/v2/D4E16AQHGaW8bIk4KKA/profile-displaybackgroundimage-shrink_350_1400/B4EZstaOGCJQAY-/0/1765993408515?e=1767830400&v=beta&t=7n1qngZajVidxJeM5VrhsDCxDG13wmyuFGDXeDw8YSM)
 
-<h2 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Hallo+I+am+MD+Mehedi+Hasan;I+am+a+Mern+stack+Developer" alt="Typing SVG" /></a>
-</h2>
+</div>
+
+---
 
 <h2 align="left">MY INFOS</h2>
 Name ➤ MD Mehedi Hasan
 <br>
 Designation ➤ Mern stack Developer
 
+---
+
 <h2 align="left">ABOUT ME</h2>
 <p>MERN Stack Developer with experience in React, Next.js, Express.js, JavaScript, and MongoDB. Skilled in building modern, scalable, and user-friendly web applications using clean code and best practices. Dedicated to delivering quality solutions and continuously improving as a developer. Comfortable working with APIs, databases, and collaborative development workflows.</p>
 <p align="left">
 </p>
+
+---
 
 <h2 align="left">MY CURRENT ACTIVITIES</h2>
 ➤ I have developed complete, production-ready web applications using Express.js, React, and MongoDB.
@@ -24,6 +30,9 @@ Designation ➤ Mern stack Developer
 ➤ I am currently working on a full-scale web application using React with a focus on performance and clean architecture.
 <br>
 ➤ I regularly upload my projects to GitHub to build a strong and professional development portfolio.
+
+---
+
 <h2 align="left">MY SKILLS</h2>
 <h3>FRONTEND SKILLS</h3>
 <p>
@@ -54,6 +63,8 @@ Designation ➤ Mern stack Developer
   <img src="https://skillicons.dev/icons?i=postman" height="55" />
 </p>
 
+---
+
 <h2 align="left">FOLLOW ME ON SOCIALS</h2>
 <a href="https://github.com/mehedihasan770/mehedihasan770/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=github" height="55" />
@@ -61,6 +72,8 @@ Designation ➤ Mern stack Developer
 <a href="https://www.linkedin.com/in/md-mehedi-hasan7/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
+
+---
 
 <h2 align="left">MOST COMMIT LANGUAGE</h2>
 <div>
@@ -70,6 +83,8 @@ Designation ➤ Mern stack Developer
     />
   </a>
 </div>
+
+---
 
 <h2 align="left">MY STATS</h2>
 <div>
@@ -82,6 +97,8 @@ Designation ➤ Mern stack Developer
   </a>
 </div>
 
+---
+
 <h2 align="left">MY PROFILE DETAILS</h2>
 <div>
   <a href="https://github.com/mehedihasan770">
@@ -92,6 +109,8 @@ Designation ➤ Mern stack Developer
     />
   </a>
 </div>
+
+---
 
 <h2 align="left">TOTAL PROFILE VIEWS</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihasan770&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihasan770" /> </p>
