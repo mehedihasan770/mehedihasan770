@@ -63,9 +63,6 @@ Continuously learning new technologies</p>
 <a href="https://www.linkedin.com/in/md-mehedi-hasan7/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
-<a href="https://mail.google.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
-</a>
 
 <h2 align="left">MOST COMMIT LANGUAGE</h2>
 <div>
