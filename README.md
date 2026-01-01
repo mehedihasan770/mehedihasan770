@@ -12,9 +12,7 @@ Name ➤ MD Mehedi Hasan
 Designation ➤ Mern stack Developer
 
 <h2 align="left">ABOUT ME</h2>
-<p>MERN Stack Developer | Expertise in React, Next.js, Express.js, JavaScript, and MongoDB
-Passionate about building modern, scalable, and user-friendly web applications with clean code and best practices.
-Continuously learning new technologies</p>
+<p>MERN Stack Developer with experience in React, Next.js, Express.js, JavaScript, and MongoDB. Skilled in building modern, scalable, and user-friendly web applications using clean code and best practices. Dedicated to delivering quality solutions and continuously improving as a developer. Comfortable working with APIs, databases, and collaborative development workflows.</p>
 <p align="left">
 </p>
 
