@@ -11,7 +11,7 @@
 <h2 align="left">MY INFOS</h2>
 Name ➤ MD Mehedi Hasan 
 <br>
-Designation ➤ Mern stack Developer
+Designation ➤ Mern stack Developer   
 
 ---
 
