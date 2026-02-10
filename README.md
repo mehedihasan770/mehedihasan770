@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MEHEDI</h1>
 
-![](https://media.licdn.com/dms/image/v2/D4E16AQHGaW8bIk4KKA/profile-displaybackgroundimage-shrink_350_1400/B4EZstaOGCJQAY-/0/1765993408515?e=1769644800&v=beta&t=ENwK5qV3Bv16ubuNNEapIWSSoHoji0AkvPFOCDgNrlk)
+![](https://media.licdn.com/dms/image/v2/D4E16AQHGaW8bIk4KKA/profile-displaybackgroundimage-shrink_200_800/B4EZstaOGCJQAU-/0/1765993408515?e=1772064000&v=beta&t=Z434trAeD2bzPagRpyVDZEZ8vKY18DkF3RXMHj68zwk)
 
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Hallo+I+am+MD+Mehedi+Hasan;I+am+a+Mern+stack+Developer" alt="Typing SVG" /></a>
