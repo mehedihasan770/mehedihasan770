@@ -19,7 +19,7 @@ Designation ➤ Mern stack Developer
 <p>MERN Stack Developer with experience in React, Next.js, Express.js, JavaScript, and MongoDB. Skilled in building modern, scalable, and user-friendly web applications using clean code and best practices. Dedicated to delivering quality solutions and continuously improving as a developer. Comfortable working with APIs, databases, and collaborative development workflows.</p>
 <p align="left">
 </p>
-
+  
 ---
 
 <h2 align="left">MY CURRENT ACTIVITIES</h2>
