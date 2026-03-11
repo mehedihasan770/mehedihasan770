@@ -5,15 +5,15 @@
 ---
  
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hallo+I+am+MD+Mehedi+Hasan;I+am+a+Full+stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hallo+I+am+MD+Mehedi+Hasan;I+am+a+Jr.+Full+stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 ---
 
-<h2 align="left">MY INFOS</h2> 
+<h2 align="left">MY INFOS</h2>   
 Name ➤ MD Mehedi Hasan   
 <br> 
-Designation ➤ Full stack Developer            
+Designation ➤ Jr. Full stack Developer            
  
 ---
 
