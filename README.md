@@ -78,21 +78,17 @@ Designation ➤ Jr. Full stack Developer
 ---
 
 <h2 align="left">MOST COMMIT LANGUAGE</h2>
-<div>
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
   <a href="https://github.com/mehedihasan770">
     <img
-      align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasan770&theme=default" height="180em" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedihasan770&theme=default"
+      height="180em"
     />
   </a>
-</div>
 
----
-
-<h2 align="left">MY STATS</h2>
-<div>
   <a href="https://github.com/mehedihasan770">
     <img
-      align="center"
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehedihasan770&theme=default"
       height="180em"
     />
