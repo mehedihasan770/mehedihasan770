@@ -12,7 +12,7 @@
 
 <h2 align="left">MY INFOS</h2>   
 Name ➤ MD Mehedi Hasan   
-<br>   
+<br>     
 Designation ➤ Jr. Full stack Developer                     
  
 ---
